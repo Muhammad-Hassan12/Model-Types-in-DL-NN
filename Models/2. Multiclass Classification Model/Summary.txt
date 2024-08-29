@@ -1,0 +1,4 @@
+Summary:
+
+When you are working on "Multiclass Classification", and you are ding "One Hot Encoding" then use "Catagorical Cross Entropy" as activation, but if you dont want to manually
+do it than just use "Sparse Catagorical Cross Entropy"!
